@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "IntegrationServicesProject_20170426", "IntegrationServicesProject_20170426\IntegrationServicesProject_20170426.dtproj", "{B48F8439-B744-4EAC-BDE4-7ECCB732BC9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B0960F13-C51E-426C-BB81-1B65CD128A61}"
+	ProjectSection(SolutionItems) = preProject
+		Sampletextfile.txt = Sampletextfile.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B48F8439-B744-4EAC-BDE4-7ECCB732BC9B}.Development|Default.ActiveCfg = Development
+		{B48F8439-B744-4EAC-BDE4-7ECCB732BC9B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
